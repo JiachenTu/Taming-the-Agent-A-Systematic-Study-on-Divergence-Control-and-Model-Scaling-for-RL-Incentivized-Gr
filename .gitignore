@@ -193,3 +193,4 @@ models/
 .claude/
 checkpoints
 datasets
+SYMLINKS.md
